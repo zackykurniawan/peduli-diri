@@ -40,7 +40,7 @@
                                         <td><?= $dipisah['3'] ?></td>
                                         <td><?= $dipisah['4'] ?></td>
                                         <td><?= $dipisah['5'] ?></td>
-                                        <td><?= $dipisah['6'] ?></td>
+                                        <td><?= $dipisah['6'] ?> °C</td>
                                         <td>
                                             <a href="?url=edit_catatan&id_catatan=<?= $dipisah['0'] ?>">
                                                 <button class="btn btn-inverse-success btn-icon me-2"><i class="mdi mdi-lead-pencil"></i></button>
