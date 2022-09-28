@@ -1,0 +1,2 @@
+# peduli-diri
+ukk kanesa
